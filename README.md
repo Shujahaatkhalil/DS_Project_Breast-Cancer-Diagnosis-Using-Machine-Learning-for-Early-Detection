@@ -1,0 +1,2 @@
+# DS_Project_Breast-Cancer-Diagnosis-Using-Machine-Learning-for-Early-Detection
+This repository contains a machine learning project for breast cancer classification using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. The project applies data preprocessing, visualization, feature selection, and multiple machine learning models to predict whether a tumor is malignant (cancerous) or benign (non-cancerous).
